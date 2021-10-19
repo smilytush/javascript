@@ -1,0 +1,8 @@
+import { createstore, combinereducer} from 'redux'
+
+import {reduers 1 }
+ 
+export const configstore = () => {
+
+const store =cratestore 
+combinereducers ({reducers 1})

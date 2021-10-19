@@ -1,0 +1,6 @@
+CheakProps.js
+
+export const CheakProps = (props) => {
+
+return(
+<div> 
